@@ -1,0 +1,19 @@
+you have
+
+
+
+
+
+CartPackage.User - > Create CartPackage.Cart
+     Add to CartPackage.Cart
+     Remove from CartPackage.Cart
+     Update CartPackage.Cart
+     Apply Offer to CartPackage.Cart
+
+     Checkout
+
+
+
+
+
+CartPackage.Admin
