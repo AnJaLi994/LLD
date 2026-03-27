@@ -11,7 +11,7 @@ import Strategy.UPIPaymentStrategy;
 public class Main {
     public static void main(String[] args) {
 
-
+        System.out.println("STARTING SHOPPING");
         User user = new User("anjali");
 
         IOfferStrategy offerStrategy = createOfferFactory.getOffer("Percentage");
